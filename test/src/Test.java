@@ -4,5 +4,7 @@ public class Test {
         System.out.println("Test2");
         System.out.printf("Test branch1");
         System.out.println("test5");
+
+        System.out.println("branch3");
     }
 }
