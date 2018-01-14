@@ -7,5 +7,7 @@ public class Test {
 
         System.out.println("test6");
         System.out.println("master");
+
+        String Str=new String();
     }
 }
